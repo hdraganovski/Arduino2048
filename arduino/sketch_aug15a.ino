@@ -11,11 +11,6 @@ int inByte;
 unsigned int board[SIZE];
 unsigned long highScore;
 
-// pin definition for the Leonardo
-// #define CS   7
-// #define DC   0
-// #define RESET  1
-
 TFT myScreen = TFT(CS, DC, RESET);
 
 void drawBoard() {
@@ -42,7 +37,7 @@ void drawBoard() {
 }
 
 /**
-   Used in the beginig or after every move.
+   Used in the begining or after every move.
    Adds a 2 or 4 block on a random position.
 
    Returns 0 if OK.
