@@ -9,3 +9,4 @@ An implementation of game of life on arduino using an android device for control
 ## Sketch
 ![sketch](https://github.com/hdraganovski/Arduino2048/blob/main/Untitled%20Sketch%202_bb.png?raw=true)    
  
+[Video](https://github.com/hdraganovski/Arduino2048/blob/main/Arduino2048_Large.mp4?raw=true)
