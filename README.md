@@ -4,7 +4,8 @@ An implementation of game of life on arduino using an android device for control
 ## Board:
  + Arduino Uno
 ## Modules:
- + zs 040 - bluetooth
- +  \- Display
-    
-    
+ + zs 040 - Bluetooth
+ + Arduino LCD Screen
+## Sketch
+![sketch]()    
+ 
