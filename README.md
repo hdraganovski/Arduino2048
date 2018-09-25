@@ -1,5 +1,5 @@
 # Arduino2048
-An implementation of game of life on arduino using an android device for controlls through bluetooth.
+An implementation of 2048 on arduino using an android device for controlls through bluetooth.
 
 ## Board:
  + Arduino Uno
