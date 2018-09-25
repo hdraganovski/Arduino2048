@@ -7,5 +7,5 @@ An implementation of game of life on arduino using an android device for control
  + zs 040 - Bluetooth
  + Arduino LCD Screen
 ## Sketch
-![sketch]()    
+![sketch](https://github.com/hdraganovski/Arduino2048/blob/main/Untitled%20Sketch%202_bb.png?raw=true)    
  
